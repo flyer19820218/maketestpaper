@@ -1,52 +1,37 @@
 [
   {
     "question_number": 1,
-    "question_summary": "超聲波、聽覺範圍判斷",
     "answer": "C",
-    "knowledge_point": "聲波的性質、超聲波的應用與人耳聽覺頻率範圍",
-    "y_range": [
-      68,
-      180
-    ]
+    "knowledge_point": "物理 - 聲波性質",
+    "question_summary": "判斷孕婦對產檢超聲波的聽覺感受之合理說明。",
+    "y_top": 0.059
   },
   {
     "question_number": 2,
-    "question_summary": "測量不規則物體密度所需器材",
     "answer": "B",
-    "knowledge_point": "密度測量方法、質量與體積測量器材（天平、量筒）",
-    "y_range": [
-      217,
-      422
-    ]
+    "knowledge_point": "物理 - 密度測量",
+    "question_summary": "選擇測量不規則小石頭密度所需的實驗器材。",
+    "y_top": 0.186
   },
   {
     "question_number": 3,
-    "question_summary": "生物種間關係：競爭與掠食",
     "answer": "A",
-    "knowledge_point": "生物群集中的種間關係（競爭、掠食、共生、寄生）",
-    "y_range": [
-      450,
-      563
-    ]
+    "knowledge_point": "生物 - 生態交互作用",
+    "question_summary": "根據報導內容，判斷白尾八哥與麻雀之間的生態交互作用類型。",
+    "y_top": 0.383
   },
   {
     "question_number": 4,
-    "question_summary": "元素化合物混合物原子種類數比較",
     "answer": "A",
-    "knowledge_point": "元素、化合物、混合物的定義及組成原子種類數量的比較",
-    "y_range": [
-      590,
-      737
-    ]
+    "knowledge_point": "化學 - 物質分類與組成",
+    "question_summary": "比較元素、化合物、混合物例子中所含原子種類多寡的正確性。",
+    "y_top": 0.492
   },
   {
     "question_number": 5,
-    "question_summary": "鋒面示意圖判斷甲乙空氣性質",
     "answer": "D",
-    "knowledge_point": "鋒面系統（暖鋒、冷鋒）的形成、結構、空氣性質與天氣現象",
-    "y_range": [
-      765,
-      900
-    ]
+    "knowledge_point": "地科 - 鋒面類型與天氣",
+    "question_summary": "判斷鋒面剖面圖中甲、乙兩側空氣的性質。",
+    "y_top": 0.624
   }
 ]
