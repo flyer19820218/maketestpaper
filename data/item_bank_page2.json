@@ -2,56 +2,56 @@
   {
     "question_number": 1,
     "answer": "C",
-    "knowledge_point": "超聲波與聽覺感知",
+    "knowledge_point": "超聲波與人耳聽覺範圍",
     "full_coordinate": [
-      71,
-      0,
-      200,
-      1
+      67,
+      73,
+      216,
+      899
     ]
   },
   {
     "question_number": 2,
     "answer": "B",
-    "knowledge_point": "密度測量方法",
+    "knowledge_point": "不規則物體密度測量",
     "full_coordinate": [
       216,
-      0,
-      417,
-      1
+      73,
+      433,
+      854
     ]
   },
   {
     "question_number": 3,
     "answer": "A",
-    "knowledge_point": "生物群集交互作用",
+    "knowledge_point": "生物種間關係（競爭與掠食）",
     "full_coordinate": [
-      441,
-      0,
-      571,
-      1
+      433,
+      73,
+      574,
+      899
     ]
   },
   {
     "question_number": 4,
     "answer": "A",
-    "knowledge_point": "元素、化合物與混合物",
+    "knowledge_point": "物質分類與原子種類比較",
     "full_coordinate": [
-      577,
-      0,
-      728,
-      1
+      574,
+      73,
+      719,
+      899
     ]
   },
   {
     "question_number": 5,
     "answer": "D",
-    "knowledge_point": "鋒面與天氣現象",
+    "knowledge_point": "鋒面與空氣性質",
     "full_coordinate": [
-      729,
-      0,
-      901,
-      1
+      719,
+      73,
+      905,
+      881
     ]
   }
 ]
