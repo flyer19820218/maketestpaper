@@ -1,57 +1,62 @@
 [
   {
     "question_number": 1,
+    "question_summary": "考查超聲波的性質和人耳可聽範圍，孕婦聽不見超聲波的原因。",
     "answer": "C",
-    "knowledge_point": "超聲波與人耳聽覺範圍",
+    "knowledge_point": "聲波頻率、人耳可聽範圍、超聲波應用",
     "full_coordinate": [
-      67,
-      73,
-      216,
-      899
+      71,
+      77,
+      205,
+      898
     ]
   },
   {
     "question_number": 2,
+    "question_summary": "考查測量不規則物體密度所需器材，包含質量測量與體積測量方法。",
     "answer": "B",
-    "knowledge_point": "不規則物體密度測量",
+    "knowledge_point": "密度測量、質量測量(天平)、體積測量(排水法、量筒)",
     "full_coordinate": [
-      216,
-      73,
-      433,
-      854
+      218,
+      77,
+      427,
+      864
     ]
   },
   {
     "question_number": 3,
+    "question_summary": "考查生物群落中物種間的交互作用類型，根據描述判斷競爭與掠食關係。",
     "answer": "A",
-    "knowledge_point": "生物種間關係（競爭與掠食）",
+    "knowledge_point": "生物間交互作用、競爭關係、掠食關係",
     "full_coordinate": [
-      433,
-      73,
-      574,
-      899
+      441,
+      77,
+      569,
+      856
     ]
   },
   {
     "question_number": 4,
+    "question_summary": "考查元素、化合物和混合物的定義及其組成原子種類的判斷與比較。",
     "answer": "A",
-    "knowledge_point": "物質分類與原子種類比較",
+    "knowledge_point": "元素、化合物、混合物定義、原子種類判斷",
     "full_coordinate": [
-      574,
-      73,
-      719,
-      899
+      583,
+      77,
+      714,
+      856
     ]
   },
   {
     "question_number": 5,
+    "question_summary": "考查鋒面系統的剖面圖及其天氣特性，判斷冷暖空氣的相對位置與運動。",
     "answer": "D",
-    "knowledge_point": "鋒面與空氣性質",
+    "knowledge_point": "鋒面、冷空氣、暖空氣、天氣系統",
     "full_coordinate": [
-      719,
-      73,
+      726,
+      77,
       905,
-      881
+      864
     ]
   }
 ]
