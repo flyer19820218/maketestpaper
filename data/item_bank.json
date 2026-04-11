@@ -448,5 +448,355 @@
       "point": "教官魔法測試",
       "diag": "已啟動單行選項速切魔法！"
     }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 1,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_1.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 2,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_2.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 3,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_3.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 4,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_4.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 5,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_5.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 6,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_6.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 7,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_7.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 8,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_8.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 9,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_9.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 10,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_10.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 11,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_11.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 12,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_12.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 13,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_13.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 14,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_14.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 15,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_15.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 16,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_16.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 17,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_17.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 18,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_18.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 19,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_19.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 20,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_20.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 21,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_21.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 22,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_22.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 23,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_23.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 24,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_24.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 25,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_25.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 26,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_26.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 27,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_27.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 28,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_28.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 29,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_29.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 30,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_30.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 31,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_31.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 32,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_32.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 33,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_33.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 34,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_34.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
+  },
+  {
+    "paper": "108年下學期二年級第二次段考雙欄",
+    "q_num": 35,
+    "image": "data/images/108年下學期二年級第二次段考雙欄_q_35.png",
+    "analysis": {
+      "ans": "A",
+      "point": "自動建檔測試",
+      "diag": "此題已成功加入超級題庫。"
+    }
   }
 ]
