@@ -798,5 +798,152 @@
       "point": "自動建檔測試",
       "diag": "此題已成功加入超級題庫。"
     }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "15",
+    "image": "data/images/temp_input (1)__page_3_Picture_12.jpeg",
+    "analysis": {
+      "ans": "A",
+      "point": "離子質子電子數",
+      "diag": "Ca的原子序為20，Ca²⁺有20個質子(w)和20-2=18個電子(x)。Cl的原子序為17，Cl⁻有17個質子(y)和17+1=18個電子(z)。因此w=20, x=18, y=17, z=18。選項(A) w>z (20>18)是正確的。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "18",
+    "image": "data/images/temp_input (1)__page_3_Figure_20.jpeg",
+    "analysis": {
+      "ans": "C",
+      "point": "靜摩擦與動摩擦圖形判讀",
+      "diag": "此圖描述摩擦力f與外力F的關係。當外力F小於400 gw時，物體靜止，靜摩擦力f與外力F相等；當外力F大於400 gw時，物體運動，動摩擦力f固定為300 gw。因此，最大靜摩擦力為400 gw，而非300 gw。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "19",
+    "image": "data/images/temp_input (1)__page_4_Figure_14.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "血糖調節與胰島素",
+      "diag": "圖中顯示甲食物導致血糖更快、更劇烈地上升。身體為了降低快速升高的血糖，會更早且更大量地分泌胰島素。升糖素主要在血糖過低時分泌，與此情境不符。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "21",
+    "image": "data/images/temp_input (1)__page_5_Picture_5.jpeg",
+    "analysis": {
+      "ans": "D",
+      "point": "圖表判讀, 材料性質",
+      "diag": "根據圖(十一)所示，比較50℃與70℃的曲線。在相同的浸入時間下，不論是PET、POM或PP，其在70℃時的質量變化率（耗損率）都明顯高於50℃時，因此選項D最合理。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "23",
+    "image": "data/images/temp_input (1)__page_5_Picture_10.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "氣壓梯度與風速",
+      "diag": "風速大小與氣壓梯度成正比。氣壓梯度越大，風速越強。從等壓線圖來看，等壓線間隔的氣壓數值差異越大，代表氣壓梯度越大。B選項的等壓線間隔為8百帕（1008-1000=8，1000-992=8），是所有選項中數值差異最大的，故氣壓梯度最大，風速最強。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "24",
+    "image": "",
+    "analysis": {
+      "ans": "A",
+      "point": "生物分類階層",
+      "diag": "請根據學名判斷「屬」的數量，再根據科名判斷「科」的數量。因為不同科可能屬於同一個目，也可能屬於不同的目，為求「最多」的目，每個科都視為屬於不同的目，所以有幾個科就有幾個目。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "25",
+    "image": "data/images/temp_input (1)__page_6_Picture_7.jpeg",
+    "analysis": {
+      "ans": "D",
+      "point": "顯微鏡構造與功能比較",
+      "diag": "骨董顯微鏡的丁是反光鏡，用於反射環境光。現代顯微鏡的光圈則用於控制內建光源的進光量，兩者在光源和光線控制機制上差異最大。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "28",
+    "image": "data/images/temp_input (1)__page_7_Picture_11.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "氧化還原反應",
+      "diag": "碘液因還原反應而褪色，表示綠茶中的物質失去電子，發生氧化反應。因此，綠茶茶水中必定含有能被氧化的物質。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "31",
+    "image": "data/images/temp_input (1)__page_7_Picture_13.jpeg",
+    "analysis": {
+      "ans": "A",
+      "point": "電流磁效應與安培右手定則",
+      "diag": "甲實驗電流由北向南，磁針在上會偏向西；乙實驗電流由北向南，磁針在下會偏向東。乙的電流較強，偏轉角度會更大。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "32",
+    "image": "data/images/temp_input (1)__page_8_Picture_27.jpeg",
+    "analysis": {
+      "ans": "D",
+      "point": "斷層面傾斜與震央位置",
+      "diag": "斷層面在地底下是傾斜的，地震發生於斷層面上，震央是斷層破裂點（震源）在地表的投影。因此，斷層面一定會朝著震央的方向傾斜，無論是正斷層或逆斷層皆然。選擇與震央同側的乙處垂直向下鑽探，最能有效鑽到斷層面。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "37",
+    "image": "data/images/temp_input (1)__page_9_Figure_28.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "行星相對位置",
+      "diag": "太陽是太陽系的中心，所有行星都圍繞太陽公轉。若地球和火星位於太陽的兩側且三者呈一直線，則太陽就會位於地球與火星之間，選項(B)是合理的。其他選項的排列方式不符合行星軌道特性或地理位置。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "40",
+    "image": "data/images/temp_input (1)__page_10_Figure_11.jpeg",
+    "analysis": {
+      "40": {
+        "ans": "A",
+        "point": "沸點與氣壓",
+        "diag": "冰塊使燒瓶上方水蒸氣凝結，導致瓶內氣壓降低。水沸點隨氣壓降低而下降，因此水在未額外加熱下會再次沸騰（汽化）。"
+      },
+      "41": {
+        "ans": "D",
+        "point": "圖表判讀",
+        "diag": "由圖可知，液化氫單位質量能量高（X軸右側），表示產生相同能量所需質量輕；但單位體積能量低（Y軸下方），表示產生相同能量所需體積大。"
+      }
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "42",
+    "image": "data/images/temp_input (1)__page_13_Picture_12.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "電能與電費計算",
+      "diag": "電費是依據總電能（度數）計算。一度電等於1 kWh，題目已直接給出電能0.021 kWh，直接乘以單價3元即可。平均電功率700W是發電速率，與總電費計算無直接關係。"
+    }
+  },
+  {
+    "paper": "temp_input (1)",
+    "q_num": "49",
+    "image": "data/images/temp_input (1)__page_13_Picture_14.jpeg",
+    "analysis": {
+      "ans": "B",
+      "point": "月球公轉與地球自轉週期",
+      "diag": "月球繞地球公轉一周（一個朔望月）約需29.5天。若月球從甲處移動至乙處的時間約為半個朔望月，即約15天。在這15天內，地球會自轉約15圈。"
+    }
   }
 ]
