@@ -1,506 +1,452 @@
 [
   {
-    "q_num": "1",
+    "q_num": 1,
     "image": "data/images/q_1.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "2",
+    "q_num": 2,
     "image": "data/images/q_2.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "3",
+    "q_num": 3,
     "image": "data/images/q_3.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "4",
+    "q_num": 4,
     "image": "data/images/q_4.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "5",
+    "q_num": 5,
     "image": "data/images/q_5.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "6",
+    "q_num": 6,
     "image": "data/images/q_6.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "7",
+    "q_num": 7,
     "image": "data/images/q_7.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "8",
+    "q_num": 8,
     "image": "data/images/q_8.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "9",
+    "q_num": 9,
     "image": "data/images/q_9.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "10",
+    "q_num": 10,
     "image": "data/images/q_10.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "11",
+    "q_num": 11,
     "image": "data/images/q_11.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "12",
+    "q_num": 12,
     "image": "data/images/q_12.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "13",
+    "q_num": 13,
     "image": "data/images/q_13.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "14",
+    "q_num": 14,
     "image": "data/images/q_14.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "15",
+    "q_num": 15,
     "image": "data/images/q_15.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "16",
+    "q_num": 16,
     "image": "data/images/q_16.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "17",
+    "q_num": 17,
     "image": "data/images/q_17.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "18",
+    "q_num": 18,
     "image": "data/images/q_18.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "19",
+    "q_num": 19,
     "image": "data/images/q_19.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "20",
+    "q_num": 20,
     "image": "data/images/q_20.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "21",
+    "q_num": 21,
     "image": "data/images/q_21.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "22",
+    "q_num": 22,
     "image": "data/images/q_22.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "23",
+    "q_num": 23,
     "image": "data/images/q_23.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "24",
+    "q_num": 24,
     "image": "data/images/q_24.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "25",
+    "q_num": 25,
     "image": "data/images/q_25.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "26",
+    "q_num": 26,
     "image": "data/images/q_26.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "27",
+    "q_num": 27,
     "image": "data/images/q_27.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "28",
+    "q_num": 28,
     "image": "data/images/q_28.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "29",
+    "q_num": 29,
     "image": "data/images/q_29.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "30",
+    "q_num": 30,
     "image": "data/images/q_30.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "31",
+    "q_num": 31,
     "image": "data/images/q_31.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "32",
+    "q_num": 32,
     "image": "data/images/q_32.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "33",
+    "q_num": 33,
     "image": "data/images/q_33.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "34",
+    "q_num": 34,
     "image": "data/images/q_34.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "35",
+    "q_num": 35,
     "image": "data/images/q_35.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "36",
+    "q_num": 36,
     "image": "data/images/q_36.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "37",
+    "q_num": 37,
     "image": "data/images/q_37.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "38",
+    "q_num": 38,
     "image": "data/images/q_38.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "39",
+    "q_num": 39,
     "image": "data/images/q_39.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "40",
+    "q_num": 40,
     "image": "data/images/q_40.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "41",
+    "q_num": 41,
     "image": "data/images/q_41.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "42",
+    "q_num": 42,
     "image": "data/images/q_42.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "1",
-    "image": "data/images/q_1.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "2",
-    "image": "data/images/q_2.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "3",
-    "image": "data/images/q_3.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "1",
-    "image": "data/images/q_1.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "2",
-    "image": "data/images/q_2.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "3",
-    "image": "data/images/q_3.png",
-    "analysis": {
-      "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
-    }
-  },
-  {
-    "q_num": "43",
+    "q_num": 43,
     "image": "data/images/q_43.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "44",
+    "q_num": 44,
     "image": "data/images/q_44.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "45",
+    "q_num": 45,
     "image": "data/images/q_45.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "46",
+    "q_num": 46,
     "image": "data/images/q_46.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "47",
+    "q_num": 47,
     "image": "data/images/q_47.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "48",
+    "q_num": 48,
     "image": "data/images/q_48.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "49",
+    "q_num": 49,
     "image": "data/images/q_49.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   },
   {
-    "q_num": "50",
+    "q_num": 50,
     "image": "data/images/q_50.png",
     "analysis": {
       "ans": "A",
-      "point": "視覺測試",
-      "diag": "此為真空切割測試，尚未啟動 AI 分析。"
+      "point": "雙重防禦測試",
+      "diag": "已啟動最左錨點與遞增鎖定，確認是否還有內文被誤切。"
     }
   }
 ]
