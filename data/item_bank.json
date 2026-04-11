@@ -3,60 +3,20 @@
     "q_num": "1",
     "image": "data/images/q_1.png",
     "analysis": {
-      "ans": "N/A",
-      "point": "考試策略與答題技巧：了解選擇題計分方式",
-      "summary": "測驗說明：試題為四選一選擇題，答錯不倒扣。",
-      "diag": "各位同學，由於本次測驗答錯不倒扣分，請務必善用這個規則！即使遇到不確定的題目，也請務必猜一個答案，不要留空，因為每作答一次都有機會得分，而空白則確定失去得分機會。時間允許的話，也可以利用刪去法提高猜對的機率。祝你考試順利！"
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
     }
   },
   {
     "q_num": "2",
     "image": "data/images/q_2.png",
     "analysis": {
-      "ans": "N/A",
-      "point": "考試規則與應試策略",
-      "summary": "考試說明：選擇題不倒扣，圖形僅供參考。",
-      "diag": "請注意，所有選擇題答錯不倒扣，務必作答，切勿空白。另外，題目中的圖形僅為示意，不要依賴其比例或大小來判斷，應以題目文字敘述或提供的數據為準。"
-    }
-  },
-  {
-    "q_num": "3",
-    "image": "data/images/q_3.png",
-    "analysis": {
-      "ans": "N/A (此為考試說明，非題目)",
-      "point": "理解與遵守考場規則，特別是圖形比例的參考性及計算空間的使用規定。",
-      "summary": "考場說明：圖形比例與計算空間利用",
-      "diag": "同學請務必注意，在任何考試中，仔細閱讀並遵守試題本開頭的說明與注意事項是取得好成績的關鍵第一步。此處強調圖形僅為參考，勿過度解讀其大小比例；同時，計算務必在試題本的空白處進行，確保答案卡保持整潔，避免因不熟悉規則而造成失分。"
-    }
-  },
-  {
-    "q_num": "4",
-    "image": "data/images/q_4.png",
-    "analysis": {
-      "ans": "B",
-      "point": "選擇題作答卡劃記規範；電腦判讀作答卡之原理與常見錯誤",
-      "summary": "選擇題作答卡劃記規範及錯誤示範",
-      "diag": "同學，考試時務必仔細閱讀並遵守作答規範。選擇題務必使用2B鉛筆將選項「塗黑、塗滿」，若需修改答案，則需「擦拭乾淨」再重新劃記。任何模糊、未塗滿、塗出框外或同時塗選多個選項的方式，皆可能導致電腦無法正確判讀，進而影響你的分數。請務必練習正確的劃記方式，確保你的努力能被準確計分。"
-    }
-  },
-  {
-    "q_num": "1",
-    "image": "data/images/q_1.png",
-    "analysis": {
-      "ans": "C",
-      "point": "超聲波的定義與人耳聽覺頻率範圍",
-      "summary": "判斷孕婦在超聲波產檢時，對超聲波的聽覺感受。",
-      "diag": "超聲波（或超音波）的頻率定義為高於人耳可聽頻率上限（約20 kHz）的聲波。因此，人耳無法直接聽到超聲波。選項(C)正確指出孕婦聽不見超聲波的原因是其頻率過高。波速雖然是聲波的特性，但並非決定人耳能否聽到的關鍵因素，頻率才是。"
-    }
-  },
-  {
-    "q_num": "2",
-    "image": "data/images/q_2.png",
-    "analysis": {
-      "ans": "B",
-      "point": "測量不規則固體的密度原理及所需器材",
-      "summary": "選擇測量不規則石頭密度所需的兩項儀器。",
-      "diag": "同學，要測量物體的密度，我們需要知道它的「質量」和「體積」。\n1.  **質量**：圖中的「甲」是天平，專門用來測量物體的質量，所以甲是必選的。\n2.  **體積**：對於形狀不規則的物體，我們無法直接用尺子（丁）測量其長寬高來計算體積。最常用的方法是「排水法」。\n    *   「丙」是量筒，可以裝水並讀取水的體積。將不規則小石頭放入量筒水中，水位的上升量就是小石頭的體積。這是一種直接且常見的排水法。\n    *   「乙」是溢水杯裝置，也是用於排水法。當物體放入溢水杯時，會溢出等體積的水。但溢出的水需要另一個容器（通常是量筒，即丙）來測量其體積。題目要求選「兩項」來測量，如果選乙，還需再選丙才能完成體積測量，這樣就超過兩項了（甲、乙、丙）。\n綜合來看，測量質量選擇「甲」天平，測量不規則物體體積選擇「丙」量筒進行排水法，是最直接且符合題目要求的兩項器材組合。"
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
     }
   },
   {
@@ -64,9 +24,9 @@
     "image": "data/images/q_3.png",
     "analysis": {
       "ans": "A",
-      "point": "生物群集內的物種間交互作用關係辨識，如競爭、掠食、共生（互利共生、片利共生、寄生）等。",
-      "summary": "描述入侵種白尾八哥與麻雀之間的築巢、食物競爭及掠食幼鳥的生態關係。",
-      "diag": "同學，這題考驗你對生物間多種交互關係的理解。從題目描述「築巢偏好的位置與麻雀相近」和「食物種類也相似」，這表示兩種鳥類爭奪有限的資源，因此是「競爭」。而「甚至被觀察到會以麻雀幼鳥為食」，這明確指出白尾八哥捕食麻雀幼鳥，屬於「掠食」關係。區分這些基本概念，特別是掠食與寄生的差異，是解題的關鍵喔！"
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
     }
   },
   {
@@ -74,19 +34,529 @@
     "image": "data/images/q_4.png",
     "analysis": {
       "ans": "A",
-      "point": "物質分類（元素、化合物、混合物）及其組成原子種類的判斷與比較。",
-      "summary": "比較元素、化合物、混合物所含原子種類多寡。",
-      "diag": "請注意「原子種類」而非「原子總數」。元素（如硫磺）只含一種原子；化合物（如笑氣 N₂O）含兩種或多種原子，但種類固定；混合物（如花崗岩，由多種礦物化合物組成）則含種類最多的原子。"
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
     }
   },
   {
     "q_num": "5",
     "image": "data/images/q_5.png",
     "analysis": {
-      "ans": "D",
-      "point": "鋒面種類與冷暖空氣團的相對位置和性質",
-      "summary": "判斷鋒面兩側甲、乙空氣團是冷空氣或暖空氣。",
-      "diag": "同學你好，此題考驗你對鋒面形成原理的理解。鋒面是冷暖空氣團的交界，其中暖空氣因為密度較小，會沿著鋒面爬升到冷空氣上方，進而冷卻凝結形成雲雨；而冷空氣密度較大，則會停留在下方。觀察圖中箭頭指示乙空氣沿著鋒面上升，並在上方形成雲雨，這代表乙是較輕的暖空氣，而甲則是密度較大的冷空氣。因此，甲為冷空氣，乙為暖空氣。"
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "6",
+    "image": "data/images/q_6.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "7",
+    "image": "data/images/q_7.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "8",
+    "image": "data/images/q_8.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "9",
+    "image": "data/images/q_9.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "10",
+    "image": "data/images/q_10.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "11",
+    "image": "data/images/q_11.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "12",
+    "image": "data/images/q_12.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "13",
+    "image": "data/images/q_13.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "14",
+    "image": "data/images/q_14.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "15",
+    "image": "data/images/q_15.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "16",
+    "image": "data/images/q_16.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "17",
+    "image": "data/images/q_17.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "18",
+    "image": "data/images/q_18.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "19",
+    "image": "data/images/q_19.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "20",
+    "image": "data/images/q_20.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "21",
+    "image": "data/images/q_21.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "22",
+    "image": "data/images/q_22.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "23",
+    "image": "data/images/q_23.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "24",
+    "image": "data/images/q_24.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "25",
+    "image": "data/images/q_25.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "26",
+    "image": "data/images/q_26.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "27",
+    "image": "data/images/q_27.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "28",
+    "image": "data/images/q_28.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "29",
+    "image": "data/images/q_29.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "30",
+    "image": "data/images/q_30.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "31",
+    "image": "data/images/q_31.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "32",
+    "image": "data/images/q_32.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "33",
+    "image": "data/images/q_33.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "34",
+    "image": "data/images/q_34.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "35",
+    "image": "data/images/q_35.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "36",
+    "image": "data/images/q_36.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "37",
+    "image": "data/images/q_37.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "38",
+    "image": "data/images/q_38.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "39",
+    "image": "data/images/q_39.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "40",
+    "image": "data/images/q_40.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "41",
+    "image": "data/images/q_41.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "42",
+    "image": "data/images/q_42.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "1",
+    "image": "data/images/q_1.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "2",
+    "image": "data/images/q_2.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "3",
+    "image": "data/images/q_3.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "1",
+    "image": "data/images/q_1.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "2",
+    "image": "data/images/q_2.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "3",
+    "image": "data/images/q_3.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "43",
+    "image": "data/images/q_43.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "44",
+    "image": "data/images/q_44.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "45",
+    "image": "data/images/q_45.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "46",
+    "image": "data/images/q_46.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "47",
+    "image": "data/images/q_47.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "48",
+    "image": "data/images/q_48.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "49",
+    "image": "data/images/q_49.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
+    }
+  },
+  {
+    "q_num": "50",
+    "image": "data/images/q_50.png",
+    "analysis": {
+      "ans": "A",
+      "point": "視覺版面測試中...",
+      "summary": "這是純切割極速版，沒有呼叫 AI",
+      "diag": "請檢查圖片的上下邊緣是否完美"
     }
   }
 ]
