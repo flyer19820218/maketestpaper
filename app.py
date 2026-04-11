@@ -16,7 +16,7 @@ div.stRadio > div { flex-direction: row; gap: 20px; }
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🔬 理化 AI 學習診斷系統 (全卷測試版)")
+st.title("🔬 理化 AI 學習診斷系統")
 
 @st.cache_data
 def load_quiz_data():
@@ -26,7 +26,7 @@ def load_quiz_data():
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
         
-        # 🛡️ 關鍵修復：強制將題號轉為「數字」來排序，避免 "10" 排在 "2" 前面
+        # 強制將題號轉為數字排序
         def sort_by_num(item):
             try:
                 return int(item.get("q_num", 0))
@@ -38,11 +38,11 @@ def load_quiz_data():
 quiz_data = load_quiz_data()
 
 if not quiz_data:
-    st.warning("⚠️ 找不到題庫檔案！請先在 Colab 執行全卷測試程式碼，並等待資料推送至 GitHub。")
+    st.warning("⚠️ 找不到題庫檔案！請先在 Colab 執行後台程式碼，並等待資料推送至 GitHub。")
     st.stop()
 
 # ================================
-# 動態讀取總題數 (不管切了 50 題還是 100 題都能顯示)
+# 動態讀取總題數
 # ================================
 total_q = len(quiz_data)
 st.write(f"📂 目前題庫共有：**{total_q}** 題")
